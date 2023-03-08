@@ -63,6 +63,8 @@
 
 2. 新聘任教師《基本法及香港國安法》
 
+該項考試最近兩年剛剛開始實施, 刷題可過.
+
 > [報名考試地址](https://www.edb.gov.hk/tc/sch-admin/admin/about-sch-staff/blnst/index.html)
 
 ### 第三步: 申請香港<檢定教員> - 獲得香港教師資格
@@ -88,3 +90,10 @@
 2. 網上申請/報名工作需要直接付款, 所以需要一張信用卡可以方便很多, 推薦還是VISA或者MASTERCARD;
 3. 第一步 <學歷評估> 和 第二步 考試 可以同時進行準備, 有了<學歷評估>結果之後, 可以直接申請 第三步 <檢定教員>;
 4. 最後在 第一 第二 第三步全部完成之後, 就可以大膽開始找工作了.
+
+
+## Hotlinks 常用參考地址
+
+1. 香港學術及職業資歷評審局. [官網](https://iportal.hkcaavq.edu.hk/home)
+2. 香港教育局. [官網](https://www.edb.gov.hk/tc/index.html)
+3. 香港教育大學. [官網](https://www.hkeaa.edu.hk/tc/)
