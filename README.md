@@ -24,7 +24,7 @@
 
 由<香港學術及職業資歷評審局>做出的學歷評估, 簡介官網如下:
 
-> https://iportal.hkcaavq.edu.hk/process-of-assessment
+> (香港學術及職業資歷評審局)[https://iportal.hkcaavq.edu.hk/process-of-assessment]
 
 所需要的材料如下:
 
@@ -46,7 +46,7 @@
 
 本步驟建議直接在網上申請, 無需本人到場. 申請地址: 
 
-> https://iportal.hkcaavq.edu.hk/home
+> (學歷評估申請地址)[https://iportal.hkcaavq.edu.hk/home]
 
 ### 第二步: 考試
 
@@ -56,19 +56,19 @@
 
 考試簡介及報名地址:
 
-> https://www.hkeaa.edu.hk/tc/lpat/introduction/
+> (教師語文能力評核報名地址)[https://www.hkeaa.edu.hk/tc/lpat/introduction/]
 
 推薦網上報名.
 
 2. 新聘任教師《基本法及香港國安法》
 
-> https://www.edb.gov.hk/tc/sch-admin/admin/about-sch-staff/blnst/index.html
+> (報名考試地址)[https://www.edb.gov.hk/tc/sch-admin/admin/about-sch-staff/blnst/index.html]
 
 ### 第三步: 申請香港<檢定教員> - 獲得香港教師資格
 
 教育局注冊教師介紹及首頁:
 
-> https://www.edb.gov.hk/tc/teacher/qualification-training-development/qualification/teacher-registration/index.html
+> (教育局注冊教師)[https://www.edb.gov.hk/tc/teacher/qualification-training-development/qualification/teacher-registration/index.html]
 
 推薦網上報名.
 
